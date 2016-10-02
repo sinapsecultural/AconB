@@ -1,5 +1,5 @@
 # Site
-title:              AconB
+title:              Arquitectura con Blender
 bio:                'Tutoriales de Blender para Arquitectos'
 description:        "Arquitectura con Blender pretende acercar a estudiantes o profesionales del mundo de la arquitectura los secretos del programa de representación en 3D Blender"
 reading_time:       true
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   username
+disqus_shortname:   sinapsecultural
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,19 +37,19 @@ disqus_shortname:   username
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-#twitter:            username
-#facebook:           username
+email:              sinapsecultural@gmail.com
+#twitter:           username
+#facebook:          username
 github:             sinapsecultural
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:         username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
 youtube:            sinapsecultural
 #soundcloud:        username
