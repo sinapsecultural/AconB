@@ -1,13 +1,13 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              AconB
+bio:                'Tutoriales de Blender para Arquitectos'
+description:        "Arquitectura con Blender pretende acercar a estudiantes o profesionales del mundo de la arquitectura los secretos del programa de representación en 3D Blender"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             es_ES
 url:                https://sinapsecultural.github.io/AconB
 
 # Jekyll
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   username
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+#twitter:            username
+#facebook:           username
+github:             sinapsecultural
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -49,9 +49,9 @@ instagram:          username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:            sinapsecultural
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
