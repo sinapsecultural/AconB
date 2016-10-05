@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Acerca de Arquitectua con Blender
+title: Acerca de Arquitectura con Blender
 tags: [blender, arquitectura, curso, tutorial]
 date: 2016-10-05
 comments: false
 ---
-    
-<!--<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>-->
 
 ## Motivación
 
