@@ -5,7 +5,7 @@ excerpt: "Listado de cursos"
 comments: false
 ---
 
-## [Curso básico](/projects/cursobasico)
+## [Curso básico](/AconB/projects/cursobasico)
 
 ### Exterior de una vivienda 1
 
