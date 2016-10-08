@@ -5,24 +5,24 @@ excerpt: "Listado de cursos"
 comments: false
 ---
 
-## [Curso básico](/AconB/projects/cursobasico)
+## Curso básico
 
-### Exterior de una vivienda 1
+Este curso pretende ser la primera toma de contacto con Blender aunque enfocado a estudiantes y profesionales de la arquitectura que ya tienen nociones previas de otros programas de dibujo en 3D (AutoCAD, SketchUP, 3DStudio Max,...).
 
-Este curso pretende ser la primera toma de contacto con Blender. Para ello nos centraremos en representar una pequeña vivienda unifamiliar e intentaremos tocar los conceptos básicos de representación arquitectónica con Blender.
+Para ello nos centraremos en aprender lo indispensable para realizar un **render básico del exterior de una pequeña vivienda unifamiliar** con su entorno inmediato. El resultado no pretende ser una imagen extremadamente realista, aunque si sentar las bases del modelado, el sombreado, la iluminación y el renderizado con Blender, y que serán desarroyados en cursos posteriores.
 
-
+###### [Acceder al curso](/AconB/projects/cursobasico)
 
 
 ## Curso intermedio
 
-### Exterior de una vivienda 2
+**Render avanzado del exterior de una vivienda unifamiliar**
 
-(Próximamente)
+###### (Próximamente)
 
 
 ## Curso avanzado
 
-### Interior de una vivienda
+**Render del interior de una vivienda**
 
-(Próximamente)
+###### (Próximamente)
