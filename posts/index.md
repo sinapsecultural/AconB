@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: project
+title: Lista de publicaciones
+excerpt: "Lista de publicaciones"
 comments: false
 ---
