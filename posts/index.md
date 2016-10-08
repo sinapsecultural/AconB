@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Lista de publicaciones
-excerpt: "Lista de publicaciones"
+title: Últimas entradas
+excerpt: "Últimas entradas"
 comments: false
 ---
