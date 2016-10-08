@@ -11,18 +11,18 @@ Este curso pretende ser la primera toma de contacto con Blender aunque enfocado 
 
 Para ello nos centraremos en aprender lo indispensable para realizar un **render básico del exterior de una pequeña vivienda unifamiliar** con su entorno inmediato. El resultado no pretende ser una imagen extremadamente realista, aunque si sentar las bases del modelado, el sombreado, la iluminación y el renderizado con Blender, y que serán desarroyados en cursos posteriores.
 
-###### [Acceder al curso](/AconB/projects/cursobasico)
+##### [Acceder al curso](/AconB/projects/cursobasico)
 
 
 ## Curso intermedio
 
 **Render avanzado del exterior de una vivienda unifamiliar**
 
-###### (Próximamente)
+##### (Próximamente)
 
 
 ## Curso avanzado
 
 **Render del interior de una vivienda**
 
-###### (Próximamente)
+##### (Próximamente)

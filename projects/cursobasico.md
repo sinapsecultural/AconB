@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Cursos básico
+title: Curso básico
 excerpt: "Curso básico"
 comments: false
 ---
-
-## Curso básico
 
 ### Render básico del exterior de una pequeña vivienda unifamiliar
 
