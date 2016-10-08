@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cursos
+title: Listado de cursos
 excerpt: "Listado de cursos"
 comments: false
 ---

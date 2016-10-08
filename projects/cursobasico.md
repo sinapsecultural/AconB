@@ -5,7 +5,7 @@ excerpt: "Curso básico"
 comments: false
 ---
 
-### Render básico del exterior de una pequeña vivienda unifamiliar
+## Render básico del exterior de una pequeña vivienda unifamiliar
 
 A la hora de empezar a utilizar cualquier programa, resulta indispensable una orientación básica que rompa la barrera inicial, permitiendo así acceder en un futuro y de forma autónoma a un uso más especializado de dicho programa.
 
