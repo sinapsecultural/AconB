@@ -13,7 +13,7 @@ Este curso pretende ser la primera toma de contacto con Blender. Para ello nos c
 
 En este curso se tratarán los siguientes temas:
 
-1. [Instalación y configuración](/cursobasico/1x01).
+1. [Instalación y configuración](/projects/cursobasico/1x01).
 2. [Importar una plantilla dxf]().
 3. [Calcar la planta de la plantilla]().
 4. [Extrusionar los cerramientos]().
